@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @arbabkhatri
-- 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning Angular js and React js
+- 👀 I’m interested in Front End Developer and Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me arbabkhatri@gmail.com
 
